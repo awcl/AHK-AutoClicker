@@ -1,7 +1,7 @@
 #SingleInstance Force
 #MaxThreadsPerHotkey 1
 
-clickDelayInMs = 1 ; Required, should be >=1
+clickDelayInMs = 1 ; Required: should be >=1
 mouseMoveToPause = true ; Required: False prevents mouse movement pausing AutoClicking after toggleClickKeys are used
 ; https://www.autohotkey.com/docs/v1/KeyList.htm
 killProcessKey := "Esc" ; Required
